@@ -8,7 +8,7 @@ const CONFIG = {
     resumoCarta: "Clique aqui, preparei uma surpresa para você... ❤️", 
     
     // ===== CONFIGURAÇÃO DE FOTOS SIMPLIFICADAS =====
-    prefixoFotos: "foto",                        // Nome padrão dos arquivos (ex: foto (1), foto (3))
+    prefixoFotos: "foto",                        // Nome padrão dos arquivos (ex: foto1, foto3)
     extensaoFotos: ".jpg",                       // Extensão das fotos (.jpg)
 
     sliderFotoInicio: 1,                          // Número da primeira foto do Slider Principal (foto1.jpg)
